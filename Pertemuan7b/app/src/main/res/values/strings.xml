@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pertemuan7b</string>
+    <string name="Lbl1">Masukkan Nama Anda</string>
+    <string name="Lbl2">Hasilnya</string>
+    <string name="Edt1">Silahkan masukkan nama anda</string>
+    <string name="Btn1">TAMPILKAN</string>
+
+</resources>
