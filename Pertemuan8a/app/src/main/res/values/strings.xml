@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pertemuan8a</string>
+    <string name="Lbl1">Masukkan Dua Angka</string>
+    <string name="Lbl2">Hasil</string>
+    <string name="Edt1">Masukkan Angka Pertama</string>
+    <string name="Edt2">Masukkan Angka Kedua</string>
+    <string name="EdtBilangan">Masukkan Bilangan</string>
+    <string name="BtnReset">BERSIHKAN</string>
+    <string name="BtnBilangan">CEK BILANGAN</string>
+</resources>
